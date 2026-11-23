@@ -1,4 +1,4 @@
-Code companion licence: Hands-On AI Agents, Level 1
+Code companion licence: Hands-On AI Agents, Level 2
 Copyright (c) 2026 Exobean Engineering. All rights reserved.
 
 You may use, change and run this code for your own learning, and you may
