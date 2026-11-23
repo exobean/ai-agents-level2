@@ -13,7 +13,7 @@
 3. Open a terminal inside the unzipped folder and run `uv sync`.
 4. Check everything works: `uv run python -m shopassist.doctor`
 
-Grade a lesson's exercises any time: `uv run pytest exercises/<lesson>`. Lesson 0.1 of Level 1 explains every step with pictures.
+Grade a lesson's exercises any time: `uv run pytest exercises/<lesson>`. The book explains every step with pictures.
 
 ## Browser only? Use Google Colab
 
